@@ -1,2 +1,3 @@
 # internet-market
-Internet market React Node.js
+
+Internet market from React & Node.js
